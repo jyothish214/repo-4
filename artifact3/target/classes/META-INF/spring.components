@@ -1,0 +1,2 @@
+icici.com.App=org.springframework.stereotype.Component
+icici.com.GreetingController=org.springframework.stereotype.Component
